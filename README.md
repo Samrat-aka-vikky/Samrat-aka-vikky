@@ -1,4 +1,4 @@
-# Sumit_gautam
+
 
 <h1 align="center">Hi 👋, I'm Sumit Gautam</h1>
 <h3 align="center">A passionate Data Scientist and Astrophysicist</h3>
