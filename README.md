@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Sumit Gautam</h1>
 <h3 align="center">A passionate Data Scientist and Astrophysicist</h3>
 
-- 🔭 I’m currently working on **Solar Wind's Forecasting Models**
+- 🔭 I’m currently working on **Stressless Trading Methods**
 
 - 🌱 I’m currently learning **ML and Deep learning**
 
-- 👯 I’m looking to collaborate on **Data science and Data engineering Project**
+- 👯 I’m looking to collaborate on **Data science and Data Engineering Project**
 
 - 📫 How to reach me **vikkygautam50@gmail.com**
 
